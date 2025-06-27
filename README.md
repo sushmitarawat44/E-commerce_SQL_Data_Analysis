@@ -125,6 +125,8 @@ FROM UK_Retail
 GROUP BY Country, Description
 ORDER BY Revenue DESC;
 
+---
+
 ##🧠 Skills Covered
 ✅ SELECT, WHERE, GROUP BY, ORDER BY
 
@@ -136,6 +138,7 @@ ORDER BY Revenue DESC;
 
 ✅ Indexes for performance
 
+---
 
 ##🛠 Tools Used
 
